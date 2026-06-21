@@ -30,3 +30,5 @@ latest_posts:
 I am a Postdoctoral Researcher at Télécom Paris (Institut Polytechnique de Paris), where I work on safe reinforcement learning for autonomous systems. I completed my PhD at Dublin City University, where my research focused on sample efficiency for reinforcement learning in robotic manipulation tasks.
 
 [Google Scholar](https://scholar.google.com/citations?user=-Zy5WuAAAAAJ&hl=en)
+
+Contact: francisco.roldan@telecom-paris.fr
