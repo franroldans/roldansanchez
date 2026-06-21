@@ -1,5 +1,5 @@
 ---
-layout: cv
+redirect_to: /assets/pdf/example_pdf.pdf
 permalink: /cv/
 title: CV
 nav: true
