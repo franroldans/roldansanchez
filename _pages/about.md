@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher at Télécom Paris, Institut Polytechnique de Paris | Safe RL and Autonomous Systems
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>4D19</p>
-    <p>19 Pl. Marguerite Perey, </p>
-    <p>91120 Palaiseau, France</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Researcher at Télécom Paris (Institut Polytechnique de Paris), where I work on safe reinforcement learning for autonomous systems. I completed my PhD at Dublin City University, where my research focused on sample efficiency for reinforcement learning in robotic manipulation tasks.
+I am a Postdoctoral Researcher at [Télécom Paris](https://www.telecom-paris.fr/) ([Institut Polytechnique de Paris](https://www.ip-paris.fr/)), where I work on safe reinforcement learning for autonomous systems with with [Georgios Bakirtzis](https://bakirtzis.net/). I completed my PhD at Dublin City University, where my research focused on sample efficiency for reinforcement learning in robotic manipulation tasks.
 
 [Google Scholar](https://scholar.google.com/citations?user=-Zy5WuAAAAAJ&hl=en)
 
