@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: false
+date: 2022-10-14 07:59:00-0400
+inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Won the Real Robot Challenge, organized by the Max Planck Institute for Intelligent Systems.
