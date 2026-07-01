@@ -1,6 +1,6 @@
 ---
-redirect_to: /assets/pdf/example_pdf.pdf
-permalink: /assets/pdf/example_pdf.pdf
+redirect_to: /assets/pdf/FranRoldan_CV_website.pdf
+permalink: /assets/pdf/FranRoldan_CV_website.pdf
 title: CV
 nav: true
 nav_order: 5
