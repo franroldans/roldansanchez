@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Télécom Paris (Institut Polytechnique de Paris) as a postdoctoral researcher, working on safe reinforcement learning
+Joined Télécom Paris (Institut Polytechnique de Paris) as a postdoctoral researcher, working on safe autonomous systems
