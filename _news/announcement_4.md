@@ -7,4 +7,7 @@ related_posts: false
 
 I will visit the <a href="https://oden.utexas.edu/" style="color: blue;">Oden Institute</a> at <a href="https://www.utexas.edu/" style="color: blue;">The University of Texas at Austin</a> and give a talk at the <a href="https://autonomy.oden.utexas.edu/" style="color: blue;">Center for Autonomy</a> seminar titled <em>Cross-Entropy Optimization with Prioritized Constraints</em>.
 
-I will also present our work on [prioritized constrained optimization](https://arxiv.org/pdf/2610.01319){: .blue-link} at the <a href="https://corl26ws-physwm.github.io/" style="color: blue;">Bringing Physics Simulation and World Models Together for Robotic Manipulation</a> workshop, held at <a href="https://2026.corl.org/" style="color: blue;">CoRL 2026</a>.
+I will also present our work on <a href="https://arxiv.org/pdf/2610.01319"
+   style="color: #0066cc !important;">
+  prioritized constrained optimization
+</a> at the <a href="https://corl26ws-physwm.github.io/" style="color: blue;">Bringing Physics Simulation and World Models Together for Robotic Manipulation</a> workshop, held at <a href="https://2026.corl.org/" style="color: blue;">CoRL 2026</a>.
